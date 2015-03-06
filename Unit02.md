@@ -1,3 +1,10 @@
+---
+layout: default
+title: "SALES103: Public Speaking for Sales"
+course_description: "An introduction to the wide range of sales positions that are available in the workforce, with insight into how sales professionals are typically managed in terms of compensation and motivational approaches."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Ethics in Professional Sales** <span id="2"></span> 
 *Sales professions inherently involve the act of persuasion between the
 sales person and the potential customer. Communication between two or

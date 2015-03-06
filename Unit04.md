@@ -1,3 +1,10 @@
+---
+layout: default
+title: "SALES103: Public Speaking for Sales"
+course_description: "An introduction to the wide range of sales positions that are available in the workforce, with insight into how sales professionals are typically managed in terms of compensation and motivational approaches."
+next: ../../../
+previous: ../Unit03
+---
 **Unit 4: Sales Teams** <span id="4"></span> 
 *With an understanding of the range of sales professions out there and
 how to present a basic sales presentation, it is helpful to look at the
