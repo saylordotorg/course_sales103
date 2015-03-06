@@ -1,10 +1,3 @@
----
-layout: default
-title: "SALES103: Public Speaking for Sales"
-course_description: "An introduction to the wide range of sales positions that are available in the workforce, with insight into how sales professionals are typically managed in terms of compensation and motivational approaches."
-next: ../Unit02
-previous: ../Intro
----
 **Unit 1: Sales Positions** <span id="1"></span> 
 *Beginning a sales career can be very exciting and offers a wide range
 of professional possibilities. Diving head first into a list of want ads
